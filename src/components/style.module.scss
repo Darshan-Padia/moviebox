@@ -1,0 +1,16 @@
+.srchBtn{
+    background-color: royalblue;
+    padding: 10px 20px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: aliceblue;
+    border-color: royalblue;
+    border-radius:  10px;
+
+    :hover{
+        background-color: aliceblue;
+        color: royalblue;
+        border-color: royalblue;
+    }
+}
